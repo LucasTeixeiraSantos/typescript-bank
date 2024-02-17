@@ -2,7 +2,7 @@ import { Armazenador } from "./Armazenador.js";
 import { GrupoTransacao } from "./GrupoTransacao.js";
 import { TipoTransacao } from "./TipoTransacao.js";
 import { Transacao } from "./Transacao.js";
-import { ValidaDebito, ValidaDeposito } from "./Decorators";
+import { ValidaDebito, ValidaDeposito } from "./Decorators.js";
 
 export class Conta {
   protected nome: string;

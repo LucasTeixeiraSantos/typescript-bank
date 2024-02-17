@@ -6,7 +6,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 import { Armazenador } from "./Armazenador.js";
 import { TipoTransacao } from "./TipoTransacao.js";
-import { ValidaDebito, ValidaDeposito } from "./Decorators";
+import { ValidaDebito, ValidaDeposito } from "./Decorators.js";
 export class Conta {
     nome;
     saldo = Armazenador.obter("saldo") || 0;
