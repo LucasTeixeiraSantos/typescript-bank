@@ -4,4 +4,5 @@
 
 <h1>Estrutura do Projeto</h1>
 
-![image](https://github.com/LucasTeixeiraSantos/typescript-bank/assets/134326998/8c4258ed-118f-4443-a2b6-265f89224efa)
+![image](https://github.com/LucasTeixeiraSantos/typescript-bank/assets/134326998/40e05075-874c-4b42-8939-16713a566966)
+
