@@ -41,7 +41,7 @@
             }
 
             .data {
-                color: var(--cor-tercearia);
+                color: #000000;
             }
 
             &:last-of-type .transacao-info {

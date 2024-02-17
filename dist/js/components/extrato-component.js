@@ -35,6 +35,6 @@ function renderizarExtrato() {
 const ExtratoComponent = {
     atualizar() {
         renderizarExtrato();
-    }
+    },
 };
 export default ExtratoComponent;
